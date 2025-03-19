@@ -16,7 +16,7 @@ Go to the Playfab webstite and login
 
 Navigate to Automation → CloudScript → Revisions (Legacy)
 
-Then paste the code from "PUT THIS IN PLAYFAB SCRIPT"
+Then paste the code from "PUT THIS IN PLAYFAB.txt"
 
 Click Upload new revision then check 
 Deploy this revision after save then click Save and deploy
